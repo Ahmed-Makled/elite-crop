@@ -1,6 +1,6 @@
 # elite-crop
 
->>> Pracites Course boostrap4 From Elzero Web scholl Channel
+ Practice Course boostrap4 From Elzero Web scholl Channel
 
 used stack:
 1- HTML5 
