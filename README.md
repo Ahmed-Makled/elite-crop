@@ -1,8 +1,11 @@
 # elite-crop
 
  Practice Course boostrap4 From Elzero Web scholl Channel
-used stack:
-1- HTML5 
-2- CSS3 
-3- BOOSTRAP4
-4- JQUERY
+# used stack:
+
+	<ol>
+<li>1- HTML5 </li>
+<li>CSS3 </li>
+<li>BOOSTRAP4</li>
+<li>JQUERY</li>
+</ol>
